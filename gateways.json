@@ -1,0 +1,122 @@
+{
+  "gateways": [
+    {
+      "name": "Artemis Jako",
+      "gateway_id": "sigmotec8259",
+      "gateway_eui": "AC1F09FFFE188259",
+      "status_token": "NNSXS.DRIOBMYCNI4ZBSN2PSQEATJMPYN644QW7YKWDJA.IZ4B2H47M2ARHQJ4J27WYC4GBUJI4S2N577OBIIW2NAPXT73LNIA"
+    },
+    {
+      "name": "Marc Schumacher",
+      "gateway_id": "eui-ac1f09fffe188253",
+      "gateway_eui": "AC1F09FFFE188253",
+      "status_token": "NNSXS.MN65JMI2M5RVWUVWBJ2KPIIHWHDR3CTROGE3O7I.LXFVOZP3CUKCJ6YTCW4B4HI4FS5ZJCVIDLFRMZSZFT5TSLAMIRSA",
+      "number": "Test"
+    },
+    {
+      "name": "Jacobus Engelbrecht wifi",
+      "gateway_id": "eui-ac1f09fffe10476a",
+      "gateway_eui": "AC1F09FFFE10476A",
+      "status_token": "NNSXS.EZV5AGCZG4WOMJ7QEX353PN6DQ2OAIZXKNDJ5PY.ZVXOA5YFAQ2BOWHPACJVS2GQMSPVAR7EJQETDL4SNFWOURRKQNYQ"
+    },
+    {
+      "name": "Werner-Jacobi 4G Off Grid",
+      "gateway_id": "eui-ac1f09fffe104764",
+      "gateway_eui": "AC1F09FFFE104764",
+      "status_token": "NNSXS.DASEVCQJB3TEIWJRYWFBEA5RQ2I2ZO35PHSSZZI.RJ5FN53U5MCKO2LJJDODWHZPCQKL3VE74BS2N7TG74HGS7AVSVXQ",
+      "number": "0815587534"
+    },
+    {
+      "name": "Kai-Lühl",
+      "gateway_id": "eui-ac1f09fffe101153",
+      "gateway_eui": "AC1F09FFFE101153",
+      "status_token": "NNSXS.FWWYVIH3R47YGOCQ4IN6DWKSZET6KKZQHBQUMXA.C5RCFFPSG4QANW5ATWBRYRW7XGHXVGIMDF3L6HA5NR2ZIS43GSAA",
+      "number": "0815587647"
+    },
+    {
+      "name": "Werner-Jacobi",
+      "gateway_id": "eui-ac1f09fffe10476c",
+      "gateway_eui": "AC1F09FFFE10476C",
+      "status_token": "NNSXS.CRAY2BD57D3AMSKX7MPT7QJBQ5IOPUO2OJNJ7RQ.3HXELS7WARLXBPPAZSGT57COXUYG43L4GJNNWBMKYSC5QIFXSYCQ"
+    },
+    {
+      "name": "holger-dennler",
+      "gateway_id": "eui-ac1f09fffe101155",
+      "gateway_eui": "AC1F09FFFE101155",
+      "status_token": "NNSXS.I4R5M6QHROJJWKI4IKZR3MHHECSSO6OCVRMUFCQ.3DB5OSYHGQGP7KRYTYUMUY7DGMSDEUMVT3ZXDEPJ437ZHA6DIAGA",
+      "number": "0815587643"
+    },
+    {
+      "name": "cord-cordes",
+      "gateway_id": "eui-ac1f09fffe104766",
+      "gateway_eui": "AC1F09FFFE104766",
+      "status_token": "NNSXS.45YM3UTS5WXR77F4V77RFC5TSRDJDYY743SFJRA.IPUETO2HO3ATC5SBPEOQPCBDON2OXAK7RZRG4H3BW43YMVG3JITQ",
+      "number": "0815587652"
+    },
+    {
+      "name": "Ulrich Trumper",
+      "gateway_id": "eui-ac1f09fffe10114f",
+      "gateway_eui": "AC1F09FFFE10114F",
+      "status_token": "NNSXS.DE6FHGXUPUMIHHJ36HMN5MDXQD75E6FSTTGMPYQ.TPPPKVCI6E6UEXWZ2IQ5MJNCH7PFIHGLJB362OZNNF7OR57ZUN3A",
+      "number": "0814966980"
+    },
+    {
+      "name": "Okamaja Okamaja",
+      "gateway_id": "eui-fcc23dfffe2d7660-okamaja",
+      "gateway_eui": "FCC23DFFFE2D7660",
+      "status_token": "NNSXS.AASF3VOOCRI5ZLZXH7B6S3ALKUPIJSBCCVGX5JY.4H6FJ2CY5SINW3Y3YQTRHMDNEPYZ5HCN4TWIHGJICUQ7GTB4Z7MQ"
+    },
+    {
+      "name": "Zimney Offgrid",
+      "gateway_id": "eui-ac1f09fffe10114d",
+      "gateway_eui": "AC1F09FFFE10114D",
+      "status_token": "NNSXS.LPPSJUPG5GELMGENRW5XH3VQIVC4NTJER4TKA6A.MZ3DUVYFHHM2VTSG7JMPX2EEOR3HVNAIOP2CEEDZ73DU7UI3O56Q",
+      "number": "0815587607"
+    },
+    {
+      "name": "Damara Mopane Lodge Gondwana",
+      "gateway_id": "ac1f09fffe101151",
+      "gateway_eui": "AC1F09FFFE101151",
+      "status_token": "NNSXS.5JJYOEKLN62ZPU6CI4FHEKJTIKO5PRXAJ5DCNAA.YWAAC7ZYODR5FPNTTFHRTALNGE7NT24YVMZ2MPTGSNOEE7VGT33Q"
+    },
+    {
+      "name": "Okamaja Schwabenhof",
+      "gateway_id": "eui-a84041ffff23a268-1",
+      "gateway_eui": "A84041FFFF23A268",
+      "status_token": "NNSXS.QT4IYQHKCR4F6WSUCDQ25FPOSQIK2RLDBDRPPGQ.UO5HRWZNK5WFSKJU53AD4IWLKRFMPGVQAEP5UCJWEYVZ6I53F3KA"
+    },
+    {
+      "name": "Tchincombe",
+      "gateway_id": "ac1f09fffe0fce91",
+      "gateway_eui": "AC1F09FFFE0FCE91",
+      "status_token": "NNSXS.GYXQ765HLH7ZBXYDJHUZAN2J4ATB52JM5CG5LNQ.7533R7XMWULG5J3VONTHYSYE2YWUUQUVBNCHAMNJ6PYRPIXOH5TQ"
+    },
+    {
+      "name": "Kamab Metzger",
+      "gateway_id": "ac1f09fffe0fcd8b",
+      "gateway_eui": "AC1F09FFFE0FCD8B",
+      "status_token": "NNSXS.AHQYBK3YZA6W4ZVJBG6WS46DNFPN3OBP6WQGPUQ.Y6474UXTW7M4HOUTJ5IXGZQW5444GZYLH6AJ4B343AJJR35PKXZQ",
+      "number": "0814966959"
+    },
+    {
+      "name": "Marco Leuschner ",
+      "gateway_id": "a84041ffff2514d0",
+      "gateway_eui": "A84041FFFF2514D0",
+      "status_token": "NNSXS.GQY2DXSEDUHWKVOWALCNETRFXA2JLHOEAWTP3II.R6F3VC6DHO5IPVT44EF2SNTG5DFIKJV46BHR2T5QKRWWOAMDH44Q"
+    },
+    {
+      "name": "Aris-Krumhuk-Gateway",
+      "gateway_id": "eui-ac1f09fffe0fcd95",
+      "gateway_eui": "AC1F09FFFE0FCD95",
+      "status_token": "NNSXS.ACK5BEA7VPISRU2ZXC6TU2K7DWKGM5TBWS6JTJY.UZH6D6I3OCREFRXYEQ56UOYR6XMPODJTBDO3A4VFZJJJ7IW3SP2A",
+      "number": "0813952267"
+    },
+    {
+      "name": "Schünemann",
+      "gateway_id": "eui-ac1f09fffe0fcd9f",
+      "gateway_eui": "AC1F09FFFE0FCD9F",
+      "status_token": "NNSXS.IY2CJFMJ6X3DL36QD4CGC6AWQC4OFZMRRIKVXPQ.SBM3ZNOHJ5KVFHTUQZVEAJLOEJKZMZPFVO55R4PA2LCNLOMNKG3A",
+      "number": "0814966979"
+    }
+  ]
+}

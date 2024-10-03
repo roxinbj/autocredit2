@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+import json
 import os
 
 app = Flask(__name__)
@@ -6,6 +7,18 @@ app = Flask(__name__)
 @app.route('/healthy',methods=['GET'])
 def is_healthy():
     return "I am healthy",200
+
+
+@app.route('/get_gateway_status',methods=['GET'])
+def get_gateways_status():
+    #print("Enter")
+    with open('gateways.json', 'r') as file:
+        gateways = json.load(file)
+    #gateways = {"id": 222}
+    print(gateways)
+
+    return "I am healthy",200
+
 
 
 @app.route('/send_sms', methods=['POST'])
